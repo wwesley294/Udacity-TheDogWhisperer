@@ -6,9 +6,14 @@
 
 **The Dog Whisperer** harnesses the power of deep learning to make this world a better place by achieving the following:
 
+- Recognizing dogs in images and accurately identifying their breeds accurately.
+- Recognizing humans in images and accurately identifying the dog breeds of cloest resemblance.
+- Notifying users when neither a dog nor human is detected.
 
-and develop an algorithm capable of not only recognizing our canine friends in images but also identifying the breed correctly 60.0% of the time. This algorithm would lay the foundation for a mobile or web app that accepted user-supplied images and provided instant results. With that humanity would no longer mistake Whippets for Greyhounds.
-In addition, the mobile or web app would also be able to detect human faces and determine dog breeds most similar to these particular faces. One could finally once and for all know for certainty if Samuel L. Jackson really looked like a pug.
+
+## Motivation
+
+Accurately identifying dog breeds has long been a problem for human eyes. The Dog Whisperer lays the algorithmic foundation for a mobile or web app that can accept a user-supplied image and provide a result instantly. In other words, the algorithm not only has to be accurate but must also be efficient enough to be executed on a mobile or web platform.
 
 ## Libraries
 
