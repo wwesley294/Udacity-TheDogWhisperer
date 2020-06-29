@@ -17,6 +17,17 @@ Accurately identifying dog breeds has long been a problem for human eyes. The Do
 
 ## Libraries
 
+The following libraries are required to execute the Dog Whisperer:
+
+- NumPy
+- glob
+- Matplotlib
+- OpenCV
+- Scikit-learn
+- Tensorflow
+- Keras
+- InceptionV3
+
 
 ## Files
 `process_data.py` to extract and transform the emergency response data. The data will be stored in a temporary database (or in other forms at the users' choosing).
