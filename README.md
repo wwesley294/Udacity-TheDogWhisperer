@@ -6,14 +6,14 @@
 
 **The Dog Whisperer** harnesses the power of deep learning to make this world a better place by achieving the following:
 
-- Recognizing dogs in images and accurately identifying their breeds accurately.
+- Recognizing dogs in images and accurately identifying their breeds.
 - Recognizing humans in images and accurately identifying the dog breeds of cloest resemblance.
 - Notifying users when neither a dog nor human is detected.
 
 
 ## Motivation
 
-Accurately identifying dog breeds has long been a problem for human eyes. The Dog Whisperer lays the algorithmic foundation for a mobile or web app that can accept a user-supplied image and provide a result instantly. In other words, the algorithm not only has to be accurate but must also be efficient enough to be executed on a mobile or web platform.
+Accurately identifying dog breeds has long been a problem for human eyes and brains. The Dog Whisperer lays the algorithmic foundation for a mobile or web app that can accept a user-supplied image and provide a result instantly. In other words, the algorithm must not only be accurate but also efficient enough to be executed on a mobile or web platform.
 
 ## Libraries
 
