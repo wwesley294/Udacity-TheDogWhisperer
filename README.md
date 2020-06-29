@@ -1,4 +1,8 @@
+<div align="center">
+  <a href="http://beesbeesbees.com/"><img width="300px" height="auto" src="doc/axe.jpg"></a>
+</div>
 
+---
 
 **The Dog Whisperer** harnesses the power of deep learning to make this world a better place by achieving the following:
 
