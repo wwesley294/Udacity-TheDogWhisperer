@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://beesbeesbees.com/"><img width="300px" height="auto" src="doc/cover.jpg"></a>
+  <a href="http://beesbeesbees.com/"><img width="500px" height="auto" src="doc/cover.jpg"></a>
 </div>
 
 ---
