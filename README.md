@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://beesbeesbees.com/"><img width="500px" height="auto" src="doc/cover.jpg"></a>
+  <a href="https://medium.com/@wwesley294/the-dog-whisperer-fbe4c6ab141b"><img width="500px" height="auto" src="doc/cover.jpg"></a>
 </div>
 
 ---
