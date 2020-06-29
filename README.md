@@ -30,8 +30,13 @@ The following libraries are required to execute the Dog Whisperer:
 
 
 ## Files
-`process_data.py` to extract and transform the emergency response data. The data will be stored in a temporary database (or in other forms at the users' choosing).
 
+`TheDogWhisperer.ipynb` outlines the step-by-step process of developing and testing the algorithm
+
+## Results
+
+The Dog Whisperer is capable of identifying dog breeds at a 80.0% accuracy rate. The results of its human application may not be as obvious. The feature similarities observed by the algorithm may be entirely differernt from what human eyes can detect.
 
 ## Acknowledgement
-Special thanks to Udacity for laying out the steps and to Figure Eight for providing the data.
+
+Special thanks to Udacity for providing the data and guidance.
