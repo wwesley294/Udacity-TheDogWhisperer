@@ -15,6 +15,12 @@
 
 Accurately identifying dog breeds has long been a problem for human eyes and brains. The Dog Whisperer lays the algorithmic foundation for a mobile or web app that can accept a user-supplied image and provide a result instantly. In other words, the algorithm must not only be accurate but also efficient enough to be executed on a mobile or web platform.
 
+## Metrics
+
+- Recognize dog/human in an image and identify the respective breed with a 75.0% accuracy rate. 75.0% was a reasonable comprise between usability and presence of mixed-breed dogs.
+
+- Capacity to complete the above in under 30 seconds considering future deployment as a mobile app.
+
 ## Libraries
 
 The following libraries are required to execute the Dog Whisperer:
@@ -28,14 +34,13 @@ The following libraries are required to execute the Dog Whisperer:
 - Keras
 - InceptionV3
 
-
 ## Files
 
 `TheDogWhisperer.ipynb` outlines the step-by-step process of developing and testing the algorithm
 
 ## Results
 
-The Dog Whisperer is capable of identifying dog breeds at a 80.0% accuracy rate. The results of its human application may not be as obvious. The feature similarities observed by the algorithm may be entirely differernt from what human eyes can detect.
+The Dog Whisperer is capable of identifying dog breeds at a 80.0% accuracy rate in udner 30 seconds. The results of its human application may not be as obvious. The feature similarities observed by the algorithm may be entirely differernt from what human eyes can detect.
 
 ## Acknowledgement
 
